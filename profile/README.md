@@ -2,6 +2,17 @@
 
 make fundraising more fun and efficient thanks to decentralized incetives
 
+# The problem Solar-Fund solves
+
+51%* want transparency first to donate more
+A new generation is rising that wants accountability, transparency and direct access when they donate to a Cause.
+
+Donation marathons, art shows, car washes, spelling bees, bake sales, or Treasure Hunts. Everything is possible, with a community committed to the Web3 ethos of decentralization and transparency.
+(Source: Google Survey, World Unite, US, February 2022, n = 305 respondents.)
+
+It provides the transparency that a Charity needs when raising donations, through a community committed to the Web3 ethos
+of decentralization and transparency, endorsed through smart contracts.
+
 ![SolarFund main page](./images/solar1.png)
 
 Repos:
