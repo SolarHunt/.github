@@ -3,10 +3,19 @@
 make fundraising more fun and efficient thanks to decentralized incetives
 
 Repos:
-- solar-fund: Dapp hosted at, app.solarfund.wtf
+- solar-dapp: Dapp hosted at, app.solarfund.wtf
 - contracts: deployed on:
-- hompage: The hompage: solarfund.wtf
-- 
+  -  sepolia testnet
+    -  CHARITY_CONTRACT=0x2cA10927e79Bf9c0a2566E6ccC6e8cEebFE66167
+    -  TREASURE_CONTRACT=0x6B7a85AaeF8D09813890c1F4c58f2973c22eB142
+  -  ZKSync testnet
+    -  CHARITY_CONTRACT=0x2cA10927e79Bf9c0a2566E6ccC6e8cEebFE66167
+    -  TREASURE_CONTRACT=0x6B7a85AaeF8D09813890c1F4c58f2973c22eB142
+    -  PAYMASTER_ADDRESS=0xd33D38c6580C3Fcd29023fb96A722852100C4a47
+    -  TOKEN_ADDRESS=0xE10EFd0e5dD3b83E160D5F4AeA1e7953EB5B73EC
+  -  
+- homepage: The hompage: solarfund.wtf
+
 SolarFund is a platform developed for the EthPrague hackathon. It aims to facilitate crowdfunding for charity projects using Ethereum smart contracts and Graph subgraphs. The project consists of three main components: the frontend dApp, the smart contracts, and the Graph subgraphs.
 
 Table of Contents
