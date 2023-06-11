@@ -3,12 +3,21 @@
 make fundraising more fun and efficient thanks to decentralized incetives
 
 Repos:
-- solar-dapp: Dapp hosted at, app.solarfund.wtf
+- solar-dapp: Dapp hosted at, [app.solarfund.wtf](https://app.solarfund.wtf])
 - contracts: deployed on:
-  -  sepolia testnet
+  - goerli testnet:
+       - CHARITY_CONTRACT=0xe2884f42eE507c52aBFaDe5302b4152dd1794b7a
+       - TREASURE_CONTRACT=0x45388922BaeCD944F2F1300fF20Bbb6eB1A85174 
+  -  mantle testnet:
+       - CHARITY_CONTRACT=0x7EbE2404A940e52e5E02fAB17C78583FfA3D1f04
+       - TREASURE_CONTRACT=0xefe86329296Bf2f2fB3C4fF5545Dca8736fB2e71  
+  -  mumbai testnet:
+       - CHARITY_CONTRACT=0xcdb55249320aAC9600AFCca9706f61EF52115164
+       - TREASURE_CONTRACT=0x9bd688AE2491C44C10C97efCB4dF15DC66FEfa01 
+  -  sepolia testnet:
       -  CHARITY_CONTRACT=0x2cA10927e79Bf9c0a2566E6ccC6e8cEebFE66167
       -  TREASURE_CONTRACT=0x6B7a85AaeF8D09813890c1F4c58f2973c22eB142
-  -  ZKSync testnet
+  -  ZKSync testnet:
       -  CHARITY_CONTRACT=0x2cA10927e79Bf9c0a2566E6ccC6e8cEebFE66167
       -  TREASURE_CONTRACT=0x6B7a85AaeF8D09813890c1F4c58f2973c22eB142
       -  PAYMASTER_ADDRESS=0xd33D38c6580C3Fcd29023fb96A722852100C4a47
