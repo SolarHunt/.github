@@ -2,6 +2,8 @@
 
 make fundraising more fun and efficient thanks to decentralized incetives
 
+![SolarFund main page](./images/solar1.png)
+
 Repos:
 - solar-dapp: Dapp hosted at, [app.solarfund.wtf](https://app.solarfund.wtf])
 - contracts: deployed on:
