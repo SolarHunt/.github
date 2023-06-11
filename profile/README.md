@@ -29,18 +29,11 @@ Repos:
 
 SolarFund is a platform developed for the EthPrague hackathon. It aims to facilitate crowdfunding for charity projects using Ethereum smart contracts and Graph subgraphs. The project consists of three main components: the frontend dApp, the smart contracts, and the Graph subgraphs.
 
-Table of Contents
-Overview
-Features
-Installation
-Usage
-Smart Contracts
-Graph Subgraphs
-Contributing
-License
-Overview
+![SolarFund main page](./images/solar2.png)
 
 SolarFund enables users to create and contribute to crowdfunding campaigns for charities using incentives with Treasure Hunt games. The dApp provides a user-friendly interface for project creation, browsing active campaigns, and making contributions. The smart contracts handle the logic and storage of campaign data, while the Graph subgraphs index and expose relevant data for querying.
+
+![SolarFund main page](./images/solar3.png)
 
 # Features
 - Create crowdfunding campaigns for charities.
@@ -50,6 +43,10 @@ SolarFund enables users to create and contribute to crowdfunding campaigns for c
 - Access detailed information about each campaign, including the funding goal, current balance, and contributors.
 - Efficient indexing and querying of campaign data using Graph subgraphs.
 - Creation of Treasure Hunt Clues and Verification of Secret submitted by the user.
+
+![SolarFund main page](./images/solar4.png)
+
+![SolarFund main page](./images/solar5.png)
 
 # Installation
 To set up the SolarFund dApp locally, follow these steps:
