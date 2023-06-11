@@ -54,7 +54,7 @@ To set up the SolarFund dApp locally, follow these steps:
 - Clone the repository:
 
 `
-git clone https://github.com/your-username/solarfund.git
+git clone https://github.com/SolarHunt/solar-dapp
 cd solarfund
 `
 
