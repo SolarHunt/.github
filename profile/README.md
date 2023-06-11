@@ -98,7 +98,7 @@ npx hardhat compile
 Deploy the contracts:
 
 `
-npm hardhat deploy -S <deployment script>
+npx hardhat deploy -S <deployment script>
 `
 
 The smart contracts will be compiled and deployed to the specified Ethereum network.
