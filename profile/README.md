@@ -55,8 +55,6 @@ To set up the SolarFund dApp locally, follow these steps:
 - Clone the repository:
 
 `
-bash
-Copy code
 git clone https://github.com/your-username/solarfund.git
 cd solarfund
 `
@@ -94,13 +92,13 @@ To compile and deploy the smart contracts, follow the instructions below:
 Compile the contracts:
 
 `
-truffle compile
+npx hardhat compile
 `
 
 Deploy the contracts:
 
 `
-npm hardhat compile
+npm hardhat deploy -S <deployment script>
 `
 
 The smart contracts will be compiled and deployed to the specified Ethereum network.
